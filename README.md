@@ -11,6 +11,8 @@ It is a truly Free Software, not Donation Ware, so you should never recieve any 
 
 Please only download from official links provided by The Fool. If you feel obliged to give me a donation I won't turn it down, but it is not required and the software itself will never prompt you to give a donation.
 
+Got some decent quality of life things coming in v1.2
+
 f you want to donate please contact me on Discord
 
 Contact info: Discord: thefool309#9194
@@ -43,8 +45,9 @@ THINGS YOU SHOULD KNOW
 
 5.)The Box that asks "Whats your hit die type in #?" accepts a numerical value that is the maximum number on your hit die. (Ex. A d8 hit die would simply be entered in this box as "8") 
 
+6.)all errors are reported via the python console.
 
-6.)Have fun on your adventures!!! ^~^
+7.)Have fun on your adventures!!! ^~^
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
