@@ -63,4 +63,7 @@ windows.) Navigate to the default text file that it exports to. (my_character.tx
 	allow full control. 
 
 Linux.) chmod 755 /path/to/my_character.txt
+
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
