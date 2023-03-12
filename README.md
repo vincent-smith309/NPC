@@ -1,6 +1,6 @@
 # NPC
 NPC: The Non Player Create
-NPCv1 readme.txt
+NPCv1 readme
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Welcome to NPCv1, a piece of software designed in python 3.11.2 to provide quick stats for 5th Edition Dungeons And Dragons NPCs. 
 Hoping this automation saves me and my fellow DMs time, so this program is open source and free to all, including all past versions and updates.
