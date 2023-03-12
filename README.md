@@ -13,7 +13,7 @@ Please only download from official links provided by The Fool. If you feel oblig
 
 Got some decent quality of life things coming in v1.2
 
-I have plans to add a "random backstory and appearance generator" that will drop a paragraoh about the npcs looks and backstory.
+I have plans to add a "random backstory and appearance generator" that will drop a paragraph about the npcs looks and backstory.
 
 If you want to donate please contact me on Discord
 
