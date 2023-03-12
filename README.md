@@ -12,6 +12,7 @@ It is a truly Free Software, not Donation Ware, so you should never recieve any 
 Please only download from official links provided by The Fool. If you feel obliged to give me a donation I won't turn it down, but it is not required and the software itself will never prompt you to give a donation.
 
 f you want to donate please contact me on Discord
+
 Contact info: Discord: thefool309#9194
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 THINGS YOU SHOULD KNOW
