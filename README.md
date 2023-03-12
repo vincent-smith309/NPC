@@ -1,12 +1,17 @@
 # NPC
 NPC: The Non Player Create
-NPCv1.0 readme.txt
+NPCv1 readme.txt
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Welcome to NPCv1.0, a piece of software designed in python 3.11.2 to provide quick stats for 5th Edition Dungeons And Dragons NPCs. 
+Welcome to NPCv1, a piece of software designed in python 3.11.2 to provide quick stats for 5th Edition Dungeons And Dragons NPCs. 
 Hoping this automation saves me and my fellow DMs time, so this program is open source and free to all, including all past versions and updates.
-DO NOT PAY FOR THIS PROGRAM. It is a truly Free Software, not Donation Ware, so you should never recieve any adds or popups asking you for money.
-Please only download from official links provided by The Fool. If you feel obliged to give me a donation I won't turn it down, but it is not required and the software
-itself will never prompt you to give a donation. If you want to donate please contact me on Discord
+
+DO NOT PAY FOR THIS PROGRAM.
+
+It is a truly Free Software, not Donation Ware, so you should never recieve any adds or popups asking you for money.
+
+Please only download from official links provided by The Fool. If you feel obliged to give me a donation I won't turn it down, but it is not required and the software itself will never prompt you to give a donation.
+
+f you want to donate please contact me on Discord
 Contact info: Discord: thefool309#9194
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 THINGS YOU SHOULD KNOW
@@ -41,8 +46,6 @@ THINGS YOU SHOULD KNOW
 6.)Have fun on your adventures!!! ^~^
 
 
-
-P.S. NPCv1.0lite is a command line version. You can run it by either downloading and clicking the file or opening your command line (Terminal, CMD, Powershell) and typing "python /path/to/file"
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 KNOWN ERRORS 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
