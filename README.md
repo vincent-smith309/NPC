@@ -13,7 +13,9 @@ Please only download from official links provided by The Fool. If you feel oblig
 
 Got some decent quality of life things coming in v1.2
 
-f you want to donate please contact me on Discord
+I have plans to add a "random backstory and appearance generator" that will drop a paragraoh about the npcs looks and backstory.
+
+If you want to donate please contact me on Discord
 
 Contact info: Discord: thefool309#9194
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
